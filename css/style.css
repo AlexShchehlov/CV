@@ -1,0 +1,289 @@
+body {
+    font-family: 'Roboto Serif', serif;
+    background-color: #F5F7FA;
+}
+
+.main_conteiner {
+    display: flex;
+    justify-content: center;
+    max-width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    position: relative;
+
+}
+.beige {
+    width: 50px;
+    height: 30px;
+    padding: 5px 10px;
+    text-align: center;
+    background-color: #F3D82C;
+    color: #ffffff;
+    font-size: 26px;
+    font-weight: 500;
+    position: absolute;
+    top: 0;
+    left: 60%;
+}
+
+/* main content section*/
+.main_content_sections {
+    padding: 30px 70px;
+}
+
+.main_content_title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+
+}
+
+/* about me section */
+.about_me_section {
+    margin-bottom: 10px; 
+
+}
+
+.about_me_profession {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.about_me_name {
+    font-weight: 700;
+    font-size: 45px;
+    color: rgba(0, 0, 0, 0.7);
+    margin-bottom: 25px;
+}
+.about_me_city {
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #FB6D3A;
+}
+
+.about_me_description {
+    text-align: left;
+    color: rgba(0, 0, 0, 0.5);
+    border-color: #a7cece;
+    border-width: 2px;
+    border-style: dashed;
+    padding: 10px 20px 10px 80px;
+    background-image: url(../img/note-notepad-svgrepo-com.svg);
+    background-size: 50px;
+    background-repeat: no-repeat;
+    background-position-y: 5px;
+    background-position-x: top;
+}
+
+.about_me_profession {
+    font-size: 14px;
+    font-weight: 700px;
+    color: #000;
+}
+
+.my_work_experience_company_block {
+    margin: 0 15px 0 0;
+}
+
+.my_work_experience_position {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 0 0 10px 0;
+
+}
+
+.my_work_experience_period {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 0 0 10px 0;
+
+}
+
+.my_work_experience_duties {
+    padding: 0 0 0 18px;
+}
+
+.my_work_experience_duty {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.my_work_experience_divide {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+
+
+.my_work_experience_company {
+    color: #FB6D3A;
+    margin: 10px 0 0 0;
+}
+
+.my_education_section {
+    margin: 50px 0 0 0;
+
+}
+
+.my_education_work {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin: 10px 0 0 0;
+}
+.line {
+    width: 2px;
+    height: 1570px;
+    margin: auto 0;
+    background-color: rgba(0, 0, 0, 0.2);
+    
+}
+/* sidebar section */
+.avatar {
+    display: block;
+    width: 180px;
+    height: 180px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.my_sidebar_section {
+    background-color: #fff;
+    width: 330px;
+    padding: 35px 10px;
+}
+
+.contact_section{
+    margin: 0 20px 30px 15px;
+}
+.tech_skils_section,
+.soft_skils_section {
+    margin: 50px 20px 30px 15px;
+
+}
+
+.sidebar_title {
+    font-weight: 700;
+    font-size: 22px;
+    color: rgba(0, 0, 0, 0.9);
+    margin-bottom: 10px;
+}
+
+/* contacts section */
+.telephone {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+.email {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    margin-top: 10px;
+}
+.telephone img, .email img {
+    width: 25px;
+}
+
+.contact_section_link {
+    color: rgba(0, 0, 0, 0.5);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none;
+}
+.contact_section_link:hover{
+    color: #FB6D3A;
+}
+
+/* tech skils section */
+.tech_skils_list {
+    padding: 0px;
+}
+.tech_skils_list li {
+    list-style-type: none;
+}
+.tech_skils_list .MS::before {
+    content: url(../img/office-logo-svgrepo-com-svg.svg);
+    width: 35px;
+}
+.tech_skils_list .one-c::before {
+    content: url(../img/1C_Company_logo-svg.svg);
+    width: 35px;
+}
+.tech_skils_list .bitrix::before {
+    content: url(../img/bitrix24-svgrepo-com-svg.svg);
+    width: 35px;
+}
+.tech_skils_list .HTML::before {
+    content: url(../img/html-svgrepo-com.svg);
+    width: 35px;
+}
+.tech_skils_list .CSS::before {
+    content: url(../img/css-svgrepo-com.svg);
+    width: 35px;
+}
+.tech_skils_list .BOOT::before {
+    content: url(../img/bootstrap-svgrepo-com.svg);
+    width: 35px;
+}
+.tech_skils_list .JS::before {
+    content: url(../img/js-svgrepo-com.svg);
+    width: 35px;
+}
+.tech_skils_list .jQuery::before {
+    content: url(../img/jquery-original.svg);
+    width: 35px;
+}
+.tech_skils_list .GIT::before {
+    content: url(../img/logo-github-svgrepo-com.svg);
+    width: 35px;
+}
+
+.tech_skils {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+.tech_skils img {
+    width: 60px;
+}
+.tech_skils_item,
+.soft_skils_item {
+    color: #FB6D3A;
+}
+
+.tech_skils_item_text,
+.soft_skils_item_text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* soft kils section */
+.soft_skils_list {
+    padding: 0 0 0 17px;
+}
