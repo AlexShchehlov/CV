@@ -1,0 +1,48 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 490" width="490" height="490">
+	<title>stars-svgrepo-com-svg</title>
+	<defs>
+		<image  width="98" height="98" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABiAQMAAACRa5RNAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA/6UAyI/FjgAAAAJ0Uk5TAP9bkSK1AAABEUlEQVR4nI3UO27EIBAGYDsUdOEGyxVSpojko5mjcRSOQElh2eExD8YGySN50Vf4Z5hFXpZabunLz7VKhbmUVJxLS6W5jNTxVlbqnGuTuubab3IvdV3+nda7wkzqrjiTvivhxlxeyOVjc+VxMfKoDCvVvbBi7REriC1cnQlHdqF1+hR6QJMU2YUG0beHQXMkhcIfarpICo00TY7EUJz9Tj2X2rpICKW7pbvIodJY5qljLPvUOdb21PVG+0COtbFyI7ZX0jyzPEtFKvd47eVyUkCdpQOQKmezrFQmFVERfpp8eRmk25Ui1WPBQHUdlwW1Dwh+VEx9Q8FATe1wBdl2MlRb/tryEctvW77b8tOWr/z8A6Y9nepnx/YIAAAAAElFTkSuQmCC"/>
+		<image  width="98" height="98" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABiAQMAAACRa5RNAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA/6UAyI/FjgAAAAJ0Uk5TAP9bkSK1AAABD0lEQVR4nI3UMZLDIAwFUDsUdKFNtVxhT7A+mn00jsIRKCk8YUEICdkhg2YS5RX5CDmTZYFyS19ftEr5sZRUGEtLxVmZc1ZW6j3WJpXG2i86JpWSm9Oakp+TuiqMpK+K7WAulwfmOvK1ufK6GHlVhhXhrFYBZmzlxRFlGxxajqdQ2D6FnjgkRXahXsztcNEcSaH4QE0XSaGRtsmRLbQ9iZ1mplD6jZguEkODUJyRuev8LHvXe0Zbt5bv2j/oYG2sHG97Rc07y7tUpLV86nXkJE8qE6BUuZtlxbKp0BTwrcqVL6M0jLGT4Fq4UA3rsigDvf2NGPiGwoUamHBF2Xqzptr+avsR7VXbs7bf2h759Q+deJ020yH8UgAAAABJRU5ErkJggg=="/>
+		<image  width="98" height="98" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABiAQMAAACRa5RNAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAAAAApWe5zwAAAAJ0Uk5TAP9bkSK1AAABC0lEQVR4nJ2US47EIAxEEyE1S7a9mlxhTtA5WnK0HIUjZMkCNYONP9CfyBpLkXmLlMtFlGnCOqa+LmgeKX4nd/6PfLJSyFZanlZaRypW2spupFIOG82lRBu5Vzq/kX+lxIO1jmpYa6+LatW4FGpUQSnjLK4TPXLFYQSkoaIwXkQxfRHNtIBIdqJx8H1Q0CoponShoZPEzaGSpKmSLMo3sYlnEZVvJHSSJHoOlCwU3ilbaPRyRWsXyzVtH2hXWpWq/NJT8ppZzdIJzXDqaa9KUQgcCGVwTuQgE8+BOjg4JZBj8mhjS0y4FhOGsBAF7PwbCfi+o0ADzp2JlrYZU2uP1n6Gdm/t1tovGazPH82tnRT6L0xCAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<g id="Layer">
+		<use id="Layer" href="#img1" x="0" y="196"/>
+		<use id="Layer" href="#img2" x="98" y="196"/>
+		<use id="Layer" href="#img3" x="196" y="196"/>
+		<path id="Layer" class="s0" d="m391.9 233.5l-30.2 23 11.6 37.3-30.2-23.1-30.3 23.1 11.6-37.3-30.2-23h37.3l11.6-37.3 11.5 37.3z"/>
+		<path id="Layer" class="s0" d="m452.6 233.5h37.4l-30.2 23 11.5 37.3-30.2-23.1-30.2 23.1 11.5-37.3-30.2-23h37.4l11.5-37.3z"/>
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+</svg>
